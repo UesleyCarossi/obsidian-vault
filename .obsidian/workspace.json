@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "8faf9a4c6c66932b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cca9407566471a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf41c84a3927571",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30fda8475cf9e613",
+    "type": "split",
+    "children": [
+      {
+        "id": "336b696eee6c9b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "347f1efe9b96a8f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d48af98847575302",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b0bb96341010d8b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.5
+  },
+  "right": {
+    "id": "74caa8f566c0edb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cd2159e2ad9b7e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e915b514349f638e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Archtecture/Principles/SOLID/Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "15e8b5e60e1a00e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Archtecture/Principles/SOLID/Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "3a6ad7c2d2161fb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c08d264aa11da8c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Archtecture/Principles/SOLID/Untitled.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "347f1efe9b96a8f9",
+  "lastOpenFiles": [
+    "Clean Architecture/Graph/DAG - Directed Acyclic Graph.md",
+    "Clean Architecture/Principles/Component Cohesion/Axis of Change Principle.md",
+    "Clean Architecture/Principles/Component Coupling/SAP - Stable Abstractions Principle.md",
+    "Clean Architecture/Principles/Component Coupling/SDP - Stable Dependencies Principle.md",
+    "Clean Architecture/Principles/SOLID/DIP - Dependency Inversion Principle.md",
+    "Clean Architecture/Principles/Component Coupling/Component Couping.md",
+    "Clean Architecture/Principles/SOLID/SOLID.md",
+    "Clean Architecture/Principles/Component Cohesion/Component Cohesion.md",
+    "Clean Architecture/Principles/Component Cohesion/REP - Reuse Equivalence Principle.md",
+    "Clean Architecture/Principles/Component Cohesion/CRP - Common Reuse Principle.md",
+    "Clean Architecture/Principles/Component Cohesion/CCP - Common Closure Principle.md",
+    "Clean Architecture/Principles/Component Coupling/ADP - Acyclic Dependencies Principle.md",
+    "Clean Architecture/Principles/SOLID/ISP -  Interface Segregation Principle.md",
+    "Clean Architecture/Principles/SOLID/LSP - Liskov Substitution Principle.md",
+    "Clean Architecture/Principles/SOLID/OCP - Open-Closed Principle.md",
+    "Clean Architecture/Principles/SOLID/SRP - Single Responsability Principle.md",
+    "Archtecture/Principles/SOLID/Untitled.canvas",
+    "Clean Architecture/Design/Top-Down Design.md",
+    "Clean Architecture/Design",
+    "Clean Architecture/Graph",
+    "Clean Architecture/Principles/Component Coupling",
+    "Clean Architecture/Principles/Component Cohesion",
+    "Archtecture/Principles/SOLID/Drawing 2025-01-20 13.20.41.excalidraw.md",
+    "Archtecture/Principles/SOLID/Drawing 2025-01-20 13.18.56.excalidraw.md",
+    "Archtecture/Principles/SOLID/Drawing 2025-01-20 13.19.38.excalidraw.md",
+    "Archtecture/Principles/SOLID/Excalidraw",
+    "Archtecture/Principles/SOLID/Untitled 1.canvas",
+    "2025-01-20.md",
+    "Untitled.canvas",
+    "Clean Architecture/Principles/SOLID",
+    "Clean Architecture/Principles",
+    "Câmbio/Câmbio.md",
+    "Clean Architecture",
+    "Câmbio/Serviços do Sistema Câmbio.md",
+    "Câmbio",
+    "Câmbio/Consultas ao Sistema Câmbio.md",
+    "Câmbio/Câmbio Mercado Primário.md",
+    "Câmbio/Câmbio Interbancário.md"
+  ]
+}
