@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "93cd6af9b8ee4371",
+        "id": "98787a0b407d4d41",
         "type": "tabs",
         "children": [
           {
-            "id": "5e7be57699b1623b",
+            "id": "e9bac54d8b48d94a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metodologia de Produção/Pré-produção/Colour Script.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Colour Script"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -160,44 +156,44 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e7be57699b1623b",
+  "active": "e9bac54d8b48d94a",
   "lastOpenFiles": [
+    "Clean Architecture/Principles/SOLID/SRP - Single Responsability Principle.md",
+    "Common Closure Principle.md",
+    "Clean Architecture/Principles/Component Cohesion/CCP - Common Closure Principle.md",
+    "README.md",
+    "Metodologia de Produção/Metodologia de Produção.md",
+    "Clean Architecture/Clean Architecture.md",
+    "Clean Architecture/Principles/Principles.md",
+    "Clean Architecture/Graph/Graph.md",
+    "Clean Architecture/Design/Design.md",
     "Metodologia de Produção/Pré-produção/Pré-Produção.md",
+    "Metodologia de Produção/Pré-produção/Colour Script.md",
     "Metodologia de Produção/Pré-produção/Gravação de Vozes.md",
     "Metodologia de Produção/Pré-produção/Storyboard ou Animatic.md",
     "Metodologia de Produção/Pré-produção/Design(Personagens e Cenários).md",
+    "Metodologia de Produção/Pré-produção/Roteiro ou Guião.md",
     "Metodologia de Produção/Pré-produção/Argumento.md",
     "Metodologia de Produção/Pré-produção/Sinopse.md",
     "Metodologia de Produção/Pré-produção/Idéia.md",
-    "Metodologia de Produção/Pré-produção/Colour Script.md",
-    "Metodologia de Produção/Pré-produção/Roteiro ou Guião.md",
     "Metodologia de Produção/Pré-produção/storyboard.JPG",
-    "Metodologia de Produção/Pré-produção/character_design.jpg",
-    "Metodologia de Produção/Pré-produção/Animatic.md",
-    "Metodologia de Produção/Pré-produção/~toryboard.tmp",
     "Metodologia de Produção/Pré-produção/scene_design.webp",
-    "Metodologia de Produção/Metodologia de Produção.md",
-    "Metodologia de Produção/Pós-produção",
-    "Metodologia de Produção/Produção",
+    "Metodologia de Produção/Pré-produção/character_design.jpg",
     "Metodologia de Produção/Pré-produção",
     "Metodologia de Produção",
-    "Clean Architecture/Graph/DAG - Directed Acyclic Graph.md",
-    "Clean Architecture/Principles/Component Cohesion/Axis of Change Principle.md",
+    "CAM/CAM.md",
+    "CAM",
     "Clean Architecture/Principles/Component Coupling/SAP - Stable Abstractions Principle.md",
     "Clean Architecture/Principles/Component Coupling/SDP - Stable Dependencies Principle.md",
+    "Clean Architecture/Principles/Component Coupling/ADP - Acyclic Dependencies Principle.md",
+    "Clean Architecture/Graph/DAG - Directed Acyclic Graph.md",
+    "Clean Architecture/Principles/Component Cohesion/Axis of Change Principle.md",
     "Clean Architecture/Principles/SOLID/DIP - Dependency Inversion Principle.md",
     "Clean Architecture/Principles/Component Coupling/Component Couping.md",
-    "Clean Architecture/Principles/SOLID/SOLID.md",
-    "Clean Architecture/Principles/Component Cohesion/Component Cohesion.md",
-    "Clean Architecture/Principles/Component Cohesion/REP - Reuse Equivalence Principle.md",
-    "Clean Architecture/Principles/Component Cohesion/CRP - Common Reuse Principle.md",
-    "Clean Architecture/Principles/Component Cohesion/CCP - Common Closure Principle.md",
-    "Clean Architecture/Principles/Component Coupling/ADP - Acyclic Dependencies Principle.md",
-    "Clean Architecture/Principles/SOLID/ISP -  Interface Segregation Principle.md",
-    "Clean Architecture/Principles/SOLID/LSP - Liskov Substitution Principle.md",
     "Archtecture/Principles/SOLID/Untitled.canvas",
     "Clean Architecture/Design",
     "Clean Architecture/Graph",
@@ -205,6 +201,8 @@
     "Clean Architecture/Principles/Component Cohesion",
     "Archtecture/Principles/SOLID/Excalidraw",
     "Archtecture/Principles/SOLID/Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled.canvas",
+    "Clean Architecture/Principles/SOLID",
+    "Clean Architecture/Principles"
   ]
 }

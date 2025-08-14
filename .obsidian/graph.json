@@ -8,24 +8,17 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Archtecture/Principles/SOLID  ",
+      "query": "path:\"Clean Architecture\" path:\"Clean Architecture\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Archtecture/Principles/Component Cohesion\"  ",
+      "query": "path:\"Metodologia de Produção\"  ",
       "color": {
         "a": 1,
         "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"Archtecture/Principles/Component Coupling\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
       }
     }
   ],
