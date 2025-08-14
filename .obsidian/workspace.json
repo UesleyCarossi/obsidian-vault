@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2cca9407566471a9",
+        "id": "93cd6af9b8ee4371",
         "type": "tabs",
         "children": [
           {
-            "id": "edf41c84a3927571",
+            "id": "5e7be57699b1623b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Metodologia de Produção/Pré-produção/Colour Script.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Colour Script"
             }
           }
         ]
@@ -156,12 +160,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "347f1efe9b96a8f9",
+  "active": "5e7be57699b1623b",
   "lastOpenFiles": [
+    "Metodologia de Produção/Pré-produção/Pré-Produção.md",
+    "Metodologia de Produção/Pré-produção/Gravação de Vozes.md",
+    "Metodologia de Produção/Pré-produção/Storyboard ou Animatic.md",
+    "Metodologia de Produção/Pré-produção/Design(Personagens e Cenários).md",
+    "Metodologia de Produção/Pré-produção/Argumento.md",
+    "Metodologia de Produção/Pré-produção/Sinopse.md",
+    "Metodologia de Produção/Pré-produção/Idéia.md",
+    "Metodologia de Produção/Pré-produção/Colour Script.md",
+    "Metodologia de Produção/Pré-produção/Roteiro ou Guião.md",
+    "Metodologia de Produção/Pré-produção/storyboard.JPG",
+    "Metodologia de Produção/Pré-produção/character_design.jpg",
+    "Metodologia de Produção/Pré-produção/Animatic.md",
+    "Metodologia de Produção/Pré-produção/~toryboard.tmp",
+    "Metodologia de Produção/Pré-produção/scene_design.webp",
+    "Metodologia de Produção/Metodologia de Produção.md",
+    "Metodologia de Produção/Pós-produção",
+    "Metodologia de Produção/Produção",
+    "Metodologia de Produção/Pré-produção",
+    "Metodologia de Produção",
     "Clean Architecture/Graph/DAG - Directed Acyclic Graph.md",
     "Clean Architecture/Principles/Component Cohesion/Axis of Change Principle.md",
     "Clean Architecture/Principles/Component Coupling/SAP - Stable Abstractions Principle.md",
@@ -176,29 +198,13 @@
     "Clean Architecture/Principles/Component Coupling/ADP - Acyclic Dependencies Principle.md",
     "Clean Architecture/Principles/SOLID/ISP -  Interface Segregation Principle.md",
     "Clean Architecture/Principles/SOLID/LSP - Liskov Substitution Principle.md",
-    "Clean Architecture/Principles/SOLID/OCP - Open-Closed Principle.md",
-    "Clean Architecture/Principles/SOLID/SRP - Single Responsability Principle.md",
     "Archtecture/Principles/SOLID/Untitled.canvas",
-    "Clean Architecture/Design/Top-Down Design.md",
     "Clean Architecture/Design",
     "Clean Architecture/Graph",
     "Clean Architecture/Principles/Component Coupling",
     "Clean Architecture/Principles/Component Cohesion",
-    "Archtecture/Principles/SOLID/Drawing 2025-01-20 13.20.41.excalidraw.md",
-    "Archtecture/Principles/SOLID/Drawing 2025-01-20 13.18.56.excalidraw.md",
-    "Archtecture/Principles/SOLID/Drawing 2025-01-20 13.19.38.excalidraw.md",
     "Archtecture/Principles/SOLID/Excalidraw",
     "Archtecture/Principles/SOLID/Untitled 1.canvas",
-    "2025-01-20.md",
-    "Untitled.canvas",
-    "Clean Architecture/Principles/SOLID",
-    "Clean Architecture/Principles",
-    "Câmbio/Câmbio.md",
-    "Clean Architecture",
-    "Câmbio/Serviços do Sistema Câmbio.md",
-    "Câmbio",
-    "Câmbio/Consultas ao Sistema Câmbio.md",
-    "Câmbio/Câmbio Mercado Primário.md",
-    "Câmbio/Câmbio Interbancário.md"
+    "Untitled.canvas"
   ]
 }
